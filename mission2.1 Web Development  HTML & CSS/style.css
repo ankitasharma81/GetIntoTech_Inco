@@ -1,0 +1,100 @@
+header {
+    background-color:midnightblue; 
+    padding: 20px;
+    text-align: center;
+    color: white;
+    font-size: medium;
+    font-family: Architects Daughter;  
+  }
+
+  body {
+    font-family: Roboto;
+  }
+  
+h1 {
+    text-align: center;
+    font-family: Architects Daughter;
+  }
+
+p {
+    text-align: center;
+  }
+  
+  .middleSection {
+   
+    background-color:midnightblue;
+    height: 400;
+    width: 700px;
+    padding: 20px;
+    margin: auto;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    text-transform: uppercase;
+  }
+
+  .middleSection  h2 {
+    
+    text-align: left;
+  }
+  
+
+  .middleSection  p {
+    color: white;
+    text-align: left;
+    text-transform: lowercase;
+    margin-top: 75px;
+  }
+
+  .middleSection .content1 {
+    color:yellow;
+    text-align: left;
+    height: 280px;
+    
+  }
+  
+  .middleSection .content2{
+    color:red;
+    text-align: left;
+    height: 280px;
+  }
+
+.rightPic{
+float: right;
+width: 40%;
+position: relative;
+clear:both
+}
+
+bottomPic {
+  margin-right: auto;
+  margin-left: auto;
+  width: 10%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+}
+
+.column {
+  float: left;
+  width: 18%;
+  height: 25%;
+  padding: 5px;
+  margin-top: 15px;
+  margin-left: 4px;
+
+}
+
+#coulumnPic {
+  width: 100%;
+}
+
+footer {
+  background-color:midnightblue; 
+  padding: 20px;
+  text-align: center;
+  color: white;
+  font-size: medium;
+  margin: auto;
+  font-family: Architects Daughter;  
+}
+
